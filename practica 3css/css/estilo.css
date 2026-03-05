@@ -1,0 +1,13 @@
+body{
+background-image:url(../img/patron.png) ;
+background-size: 500px;
+background-repeat: repeat;
+}
+
+p{
+
+margin-right: 500px ;
+font-size: 20px;
+background-color: aqua;
+}
+
