@@ -70,6 +70,16 @@ section img {
     transform: scale(1.1);
 }
 
+.contenedor{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;
+align-content: center;
+justify-content: center;
+
+}
+
 /* Tabla */
 table {
     width: 100%;
